@@ -173,7 +173,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div weight="100" align="center">
-  <a align="left" href="https://github.com/harunur-roshid/Malaria_Detector" title="Malaria Detector"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harunurroshidcse&repo=Malaria_Detector&theme=transparent&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/harunur-roshid/Malaria_Detector" title="Malaria Detector"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harunur-roshid&repo=Malaria_Detector&theme=transparent&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/harunur-roshid/Neural_Network" title="Neural Network"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harunur-roshid&repo=Neural_Network&theme=transparent&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
